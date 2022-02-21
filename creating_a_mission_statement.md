@@ -1,7 +1,7 @@
 
 ## Tips for creating a clear mission statement
 
-The first action you need to take when working with AbductiveReason is to define your product mission. This mission will guide the problem areas that you explore and the solution objectives you aim to discover.
+The first action you need to take when working with AbductiveReason.io is to define your product mission. This mission will guide the problem areas that you explore and the solution objectives you aim to discover.
 
 I have not encountered a [good] template for writing a product mission statement, however there are two key properties that a well crafted product mission statement must embody: <b>Aspirational & Compelling</b>!
 
