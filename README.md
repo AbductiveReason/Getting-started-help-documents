@@ -1,1 +1,1 @@
-# Getting started & Help
+# AbductiveReason.io reserouces
