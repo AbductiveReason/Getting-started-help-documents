@@ -1,1 +1,1 @@
-# AbductiveReason.io reserouces
+# AbductiveReason.io resources
