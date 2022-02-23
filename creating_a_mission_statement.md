@@ -33,6 +33,7 @@ A good product mission statement should convince your ideal customers that  your
 
 Here are a few product mission statement examples that are both Aspirational and Compelling.
 
-- <b>Google (search)</b> - "to organize the world’s information and make it universally accessible and useful.""
+- <b>Google (search)</b> - "to organize the world’s information and make it universally accessible and usefull"
 - <b>Tesla</b> - "to accelerate the world's transition to sustainable energy.""
 - <b>Honest Tea</b> - "to create and promote great-tasting, healthy, organic beverages"
+- <b>AbductiveReason</b> - "To help product people make products people want"
